@@ -15,8 +15,8 @@ Overview
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
-.. |docs| image:: https://readthedocs.org/projects/python-uzbek-stemmer/badge/?style=flat
-    :target: https://python-uzbek-stemmer.readthedocs.io/
+.. |docs| image:: https://uzbek-stemmer.readthedocs.io
+    :target: https://uzbek-stemmer.readthedocs.io/
     :alt: Documentation Status
 
 .. |travis| image:: https://api.travis-ci.com/SanatbekMatlatipov/python-uzbek-stemmer.svg?branch=master
@@ -103,5 +103,4 @@ Note, to combine the coverage data from all the tox environments run:
 
     - - Other
       - ::
-
             PYTEST_ADDOPTS=--cov-append tox
